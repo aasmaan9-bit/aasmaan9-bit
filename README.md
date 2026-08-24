@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-<img width="50%" height="50%" alt="Image" src="./assets/space universe by NASA.gif" />
+<img width="50%" height="50%" alt="Image" src="./assets/space universe by NASA.gif"/>
 </div>
 <!--
 **aasmaan9-bit/aasmaan9-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
