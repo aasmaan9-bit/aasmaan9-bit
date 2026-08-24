@@ -2,7 +2,7 @@
 
 ### Physics @ King's College London · Mathematical Physics · Relativity · Quantum Physics · Astrophysics
 
-> *Trying to understand the mathematics behind the universe 
+> *Trying to understand the mathematics behind the universe*
 
 I'm a second-year **Physics BSc student at King's College London**, interested in the intersection of **theoretical physics, mathematics and computation**.
 
