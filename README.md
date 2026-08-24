@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/bcf5a50f-ec9d-4e04-a24d-c69453c0d4a3" />
+<img width="100%" height="270" alt="Image" src="https://github.com/user-attachments/assets/bcf5a50f-ec9d-4e04-a24d-c69453c0d4a3" />
 
 <!--
 **aasmaan9-bit/aasmaan9-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
