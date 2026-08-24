@@ -1,4 +1,4 @@
-# Hi there, I'm Aasmaan Patil Hashmi
+# Hi there, I'm Aasmaan
 
 ### Physics @ King's College London · Mathematical Physics · Relativity · Quantum Physics · Astrophysics
 
