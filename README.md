@@ -136,5 +136,3 @@ If you're interested in theoretical physics, mathematics, scientific computing, 
 <p align="center">
   <i>Exploring the mathematics of the universe, one equation at a time.</i>
 </p>
-
-**aasmaan9-bit/aasmaan9-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
