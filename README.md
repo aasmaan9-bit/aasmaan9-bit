@@ -1,5 +1,6 @@
 ## Hi there 👋
-<!--# Aasmaan Patil Hashmi
+
+# Aasmaan Patil Hashmi
 
 ### Physics @ King's College London · Mathematical Physics · Relativity · Quantum Physics · Astrophysics
 
